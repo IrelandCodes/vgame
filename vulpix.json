@@ -2,10 +2,10 @@
     "name": "Vulpix",
     "characterClass": "fire fox",
     "level": "1",
+    "image_path": "vulpix.png",
     "stats": {
         "health": 100,
-        "mana": 100,
-        "speed": 80
+        "mana": 100
     },
     "abilities": [
         {"name": "Flash Fire", "type": "Fire", "power": 25},

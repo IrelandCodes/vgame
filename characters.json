@@ -1,0 +1,58 @@
+{
+    "Vulpix": {
+        "name": "Vulpix",
+        "characterClass": "fire fox",
+        "level": "1",
+        "image_path": "vulpix.png",
+        "stats": {
+            "health": 100,
+            "mana": 100
+        },
+        "abilities": [
+            {"name": "Flash Fire", "type": "Fire", "power": 25},
+            {"name": "Drought", "type": "Hidden", "power": 40}
+        ]
+    },
+    "Oddish": {
+        "name": "Oddish",
+        "characterClass": "root vegetable",
+        "level": "1",
+        "image_path": "oddish.png",
+        "stats": {
+            "health": 100,
+            "mana": 100
+        },
+        "abilities": [
+            {"name": "Chlorophyll", "type": "Grass", "power": 25},
+            {"name": "Run Away", "type": "Hidden", "power": 40}
+        ]
+    },
+    "Sprigatito": {
+        "name": "Sprigatito",
+        "characterClass": "grass cat",
+        "level": "1",
+        "image_path": "sprigatito.png",
+        "stats": {
+            "health": 100,
+            "mana": 100
+        },
+        "abilities": [
+            {"name": "Overgrow", "type": "Grass", "power": 25},
+            {"name": "Protean", "type": "Hidden", "power": 40}
+        ]
+    },
+    "Piplup": {
+        "name": "Piplup",
+        "characterClass": "wet penguin",
+        "level": "1",
+        "image_path": "piplup.png",
+        "stats": {
+            "health": 100,
+            "mana": 100
+        },
+        "abilities": [
+            {"name": "Torrent", "type": "Water", "power": 25},
+            {"name": "Defiant", "type": "Hidden", "power": 40}
+        ]
+    }
+}

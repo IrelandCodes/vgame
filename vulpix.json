@@ -1,0 +1,14 @@
+{
+    "name": "Vulpix",
+    "characterClass": "fire fox",
+    "level": "1",
+    "stats": {
+        "health": 100,
+        "mana": 100,
+        "speed": 80
+    },
+    "abilities": [
+        {"name": "Flash Fire", "type": "Fire", "power": 25},
+        {"name": "Drought", "type": "Fire", "power": 40}
+    ]
+}
